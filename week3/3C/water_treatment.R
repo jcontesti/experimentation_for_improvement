@@ -1,6 +1,6 @@
 C <- T <- S <- c(-1, +1)
 
-design <- expand.grid(C=C, T=T, S=S)
+design <- expand.grid(C = C, T = T, S = S)
 C <- design$C
 T <- design$T
 S <- design$S
