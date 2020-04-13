@@ -1,2 +1,2 @@
-# experimentation_for_improvement
-Experimentation for Improvement course exercices
+# Experimentation for Improvement
+Experimentation for Improvement course exercices: https://www.coursera.org/learn/experimentation. 
